@@ -1,0 +1,702 @@
+[
+  {
+    "Codigo": "001",
+    "Nome": "Lógica de Programação: Crie seus primeiros programas usando Javascript e HTML",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/programacao-featured_large.png?v=1411490523",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "002",
+    "Nome": "Introdução à Computação: Da Lógica aos jogos com Ruby",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/introducao-ruby-featured_9c39896f-ea67-4389-9f96-43a7a4de2b64_large.png?v=1432680156",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "003",
+    "Nome": "Scratch: Um jeito divertido de aprender programação",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/YenvGixkQWFaq3oZpZr7dGXue8geB59fbwBHgS23orQ_large.jpg?v=1496341655",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "004",
+    "Nome": "Introdução à programação em C: Os primeiros passos de um desenvolvedor",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/introducao-c-featured_large.png?v=1440011167",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "005",
+    "Nome": "App Inventor: Seus primeiros aplicativos Android",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/CaMWGHXUhWVSWaH4aZazotOcKm3ckVDokQ0IQ5fM0KU_large.jpg?v=1512148345",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "006",
+    "Nome": "Construct 2: Crie o seu primeiro jogo multiplataforma",
+    "Descricao": "Livros de Programação / Lógica",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Construct-2_large.jpg?v=1516986781",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "007",
+    "Nome": "Aplicações Java para a web com JSF e JPA",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jsf-jpa-featured_large.png?v=1411486340",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "008",
+    "Nome": "Java SE 8 Programmer I: O guia para sua certificação Oracle Certified Associate",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/certificacao-java-featured_large.png?v=1431470873",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "009",
+    "Nome": "SOA aplicado: Integrando com web services e além",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/soa-webservices-featured_large.png?v=1411567532",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "010",
+    "Nome": "Design Patterns com Java: Projeto orientado a objetos guiado por padrões",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/design-patterns-featured_large.png?v=1411489099",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "011",
+    "Nome": "Spring MVC: Domine o principal framework web Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/spring-mvc-featured_large.png?v=1430247080",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "012",
+    "Nome": "Vire o jogo com Spring Framework",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/spring-framework-featured_large.png?v=1411567960",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "013",
+    "Nome": "Orientação a Objetos e SOLID para Ninjas: Projetando classes flexíveis",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/oo-solid-sumario-featured_large.png?v=1430310678",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "014",
+    "Nome": "Test-Driven Development: Teste e Design no Mundo Real",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/tdd-featured_large.png?v=1411567779",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "015",
+    "Nome": "Introdução à Arquitetura e Design de Software: Uma visão sobre a plataforma Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/arquitetura-java-featured_large.png?v=1411489903",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "016",
+    "Nome": "Desbravando Java e Orientação a Objetos: Um guia para o iniciante da linguagem",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/orientacao-objetos-java-featured_large.png?v=1416402140",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "017",
+    "Nome": "Java 8 Prático: Lambdas, Streams e os novos recursos da linguagem",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/java8-featured_large.png?v=1411490181",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "018",
+    "Nome": "JSF Eficaz: As melhores práticas para o desenvolvedor web Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jsf-eficaz-featured_large.png?v=1411490421",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "019",
+    "Nome": "Testes automatizados de software: Um guia prático",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/testes-de-software-featured_large.png?v=1429091541",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "020",
+    "Nome": "Java EE: Aproveite toda a plataforma para construir aplicações",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/G8Odq4Q1TChRM5NMkpWOfJLrIdpMhXpIMt0Qs0vOAJQ_size_mode_2_size_1024x768_large.jpeg?v=1447444684",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "021",
+    "Nome": "JPA Eficaz: As melhores práticas de persistência de dados em Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jpa-eficaz-featured_large.png?v=1411490333",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "022",
+    "Nome": "CDI: Integre as dependências e contextos do seu código Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/cdi-featured_large.png?v=1416318025",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "023",
+    "Nome": "JavaFX: Interfaces com qualidade para aplicações desktop",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/javafx-featured_large.png?v=1411490259",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "024",
+    "Nome": "VRaptor: Desenvolvimento ágil para web com Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/vraptor-featured_large.png?v=1411568040",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "025",
+    "Nome": "Spring Boot: Acelere o desenvolvimento de microsserviços",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/7aXPAWM4TObeQ4OOv3mUY-mrVzqf23Ty6enIslrhXvM_large.jpg?v=1501874081",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "026",
+    "Nome": "Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Orientacao-a-Objetos-atualizado_large.jpg?v=1523648187",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "027",
+    "Nome": "Componentes Reutilizáveis em Java com Reflexão e Anotações",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/reflexao-anotacoes-featured_large.png?v=1416318033",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "028",
+    "Nome": "Segurança em aplicações Web",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/zhQRY_vRi2-piaw5QkZpc552fcVQhN6fe4zLRb4fXV8_large.jpg?v=1486751361",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "029",
+    "Nome": "Java 9: Interativo, reativo e modularizado",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Java-9_large.png?v=1506020938",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "030",
+    "Nome": "Explorando APIs e bibliotecas Java: JDBC, IO, Threads, JavaFX e mais",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/cover-apis-java_large.jpeg?v=1423244220",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "031",
+    "Nome": "OAuth 2.0: Proteja suas aplicações com o Spring Security OAuth2",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "032",
+    "Nome": "A lógica do jogo: Recriando clássicos da história dos videogames",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/5LRsiQ-WvbmgPiUbF3xe1Is6RcorSCk5tuYbR0A__3Q_size_mode_3_size_800x600_large.jpeg?v=1452288754",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "033",
+    "Nome": "Play Framework: Java para web sem Servlets e com diversão",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/play-framework-java-featured_large.png?v=1411566121",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "034",
+    "Nome": "iReport: Crie relatórios práticos e elegantes",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jlNlg52B6Zzu_qWAedayIhIayV1YvtMgFUJoqHmfjAo_size_mode_3_size_800x600_large.jpeg?v=1456777705",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "035",
+    "Nome": "Algoritmos em Java: Busca, ordenação e análise",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Algoritmos_large.jpg?v=1484936519",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "036",
+    "Nome": "MundoJ: Segurança com Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/mundoj-seguranca-java-featured_large.png?v=1417782470",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "037",
+    "Nome": "Refatorando com padrões de projeto: Um guia em Java",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Refatoracao-Java_large.jpg?v=1509072714",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "038",
+    "Nome": "DSL: Quebre a barreira entre desenvolvimento e negócios",
+    "Descricao": "Livros de Programação / Java",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/ed1YIZAA4ox3jKxh2EeUSYMiJu7W4tM0paCt2R7sDoo_large.jpg?v=1497039745",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "039",
+    "Nome": "Desenvolvimento web com ASP.NET MVC",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/aspnet-mvc-featured_large.png?v=1411488896",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "040",
+    "Nome": "Test-Driven Development: Teste e Design no Mundo Real com .NET",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/tdd-dotnet-featured_large.png?v=1411567862",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "041",
+    "Nome": "ASP.NET MVC5: Crie aplicações web na plataforma Microsoft®",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/oYMlie2WOSoSAAMXetzaSsfNxsomFDB7b8dbi8uVY6o_size_mode_3_size_1280x960_large.jpeg?v=1463777619",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "042",
+    "Nome": "Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Orientacao-a-Objetos-atualizado_large.jpg?v=1523648187",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "043",
+    "Nome": "C# e Visual Studio: Desenvolvimento de aplicações desktop",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/csharp-featured_large.png?v=1443794473",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "044",
+    "Nome": "Web Services REST com ASP .NET Web API e Windows Azure",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/wv3KXH7UbTZekuaCTSDj_sIcXB-c4iy37jj7vhCbYCg_size_mode_3_size_800x600_large.jpeg?v=1460748537",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "045",
+    "Nome": "ASP.NET Core MVC: Aplicações modernas em conjunto com o Entity Framework",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/8ROjv5OVfks54j7FvDehRuYHax0-et96hKHyplURGe4_large.jpg?v=1518105341",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "046",
+    "Nome": "Orientação a Objetos em C#: Conceitos e implementações em .NET",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Orientacao-a-Objetos-em-C_large.jpg?v=1510337180",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "047",
+    "Nome": "Programação funcional em .NET: Explore um novo universo",
+    "Descricao": "Livros de Programação / .NET",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Mjwq2cGKbD4-KWV7nQi4LpDvZrMH1AcxBKMZtbbpHMg_large.jpg?v=1507321170",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "048",
+    "Nome": "Desenvolvimento web com PHP e MySQL",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/cover_large.jpg?v=1477073475",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "049",
+    "Nome": "PHP e Laravel: Crie aplicações web como um verdadeiro artesão",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/laravel-featured_large.png?v=1432129716",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "050",
+    "Nome": "Zend Certified Engineer: Descomplicando a certificação PHP",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/f7mrqKK-ihQQVJJT3EqE0PoFQk7_7_Hh5YPSj8uFSj8_size_mode_3_size_800x600_large.jpeg?v=1461353863",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "051",
+    "Nome": "CodeIgniter: Produtividade na criação de aplicações web em PHP",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/QtkUR6Crnu_Be5pS0hEiryIgiEVBW_PJO2xG3JZtQDQ_size_mode_3_size_1024x768_large.jpeg?v=1461959497",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "052",
+    "Nome": "Test-Driven Development: Teste e Design no Mundo Real com PHP",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/cover_ce399913-9822-4509-ab16-fad1cfad2df3_large.jpeg?v=1421769309",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "053",
+    "Nome": "Do PHP ao Zend Framework: Domine as boas práticas",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Etu3wiG3JfYmXCSDHyZNeuIRALuu935zHiDkUwJu1zc_large.jpg?v=1521829030",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "054",
+    "Nome": "Coleção CodeIgniter + Zend PHP",
+    "Descricao": "Livros de Programação / PHP",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Colecao_CDC-CodeIgniter_Zend_large.jpg?v=1484687743",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "055",
+    "Nome": "Introdução à Computação: Da Lógica aos jogos com Ruby",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/introducao-ruby-featured_9c39896f-ea67-4389-9f96-43a7a4de2b64_large.png?v=1432680156",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "056",
+    "Nome": "A lógica do jogo: Recriando clássicos da história dos videogames",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/5LRsiQ-WvbmgPiUbF3xe1Is6RcorSCk5tuYbR0A__3Q_size_mode_3_size_800x600_large.jpeg?v=1452288754",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "057",
+    "Nome": "Desenvolva jogos com HTML5 Canvas e JavaScript",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jogos-html-javascript-featured_large.png?v=1411488497",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "058",
+    "Nome": "Desenvolvimento de Jogos para Android: Explore sua imaginação com o framework Cocos2D",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jogos-android-featured_large.png?v=1411488637",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "059",
+    "Nome": "Desenvolvimento de Jogos para iOS: Explore sua imaginação com o framework Cocos2D",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jogos-ios-featured_large.png?v=1411488760",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "060",
+    "Nome": "Jogos em HTML5: Explore o mobile e física",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/jogos-mobile-cordova-featured_large.png?v=1413474311",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "061",
+    "Nome": "Jogos Android: Crie um game do zero usando classes nativas",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/games-android-featured_large.png?v=1433544805",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "062",
+    "Nome": "Lean Game Development: Desenvolvimento enxuto de jogos",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/AMlqJB2HHf2DrJmOv7CcDavslB_Bn28__SmqTx0Ry9I_large.jpg?v=1492115019",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "063",
+    "Nome": "Construct 2: Crie o seu primeiro jogo multiplataforma",
+    "Descricao": "Livros de Programação / Games",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Construct-2_large.jpg?v=1516986781",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "064",
+    "Nome": "Scala: Como escalar sua produtividade",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/ZYMBZ75bNReKJshi21Zyxagim170TKgld9RHzznyaHo_large.jpg?v=1481302958",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "065",
+    "Nome": "Elixir: Do zero à concorrência",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Lqh65YPrQtMLoE3f-VqbhuiQgdv6t4iOvD3plVQl_64_large.jpg?v=1491592655",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "066",
+    "Nome": "Haskell: Uma introdução à programação funcional",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/gTRsVcwn5ZDw42nu4hw-fQJrUiTm7HkKH-nU-M_2w2g_large.jpg?v=1494618758",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "067",
+    "Nome": "OCaml: Programação funcional na prática",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OCAML_large.png?v=1420474743",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "068",
+    "Nome": "Programação funcional em .NET: Explore um novo universo",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Mjwq2cGKbD4-KWV7nQi4LpDvZrMH1AcxBKMZtbbpHMg_large.jpg?v=1507321170",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "069",
+    "Nome": "Programação Funcional e Concorrente em Rust",
+    "Descricao": "Livros de Programação / Funcional",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/fjRCXKbPMIcdYdC5HjX_nh6yUyQwwxV6aIOE7G_nYS4_large.jpg?v=1519941170",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "070",
+    "Nome": "Aplicações web real-time com Node.js",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/node-ebook-atualizado_large.jpg?v=1516282095",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "071",
+    "Nome": "REST: Construa API's inteligentes de maneira simples",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/rest-featured_large.png?v=1411566684",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "072",
+    "Nome": "Ruby on Rails: coloque sua aplicação web nos trilhos",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/ruby-on-rails-featured_large.png?v=1411567203",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "073",
+    "Nome": "Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/mean-featured_large.png?v=1423666173",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "074",
+    "Nome": "Swift: Programe para iPhone e iPad",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Swift-ebook_large.png?v=1418170204",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "075",
+    "Nome": "Python: Escreva seus primeiros programas",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/python3-featured_large.png?v=1441973789",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "076",
+    "Nome": "Ruby: Aprenda a programar na linguagem mais divertida",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/ruby-featured_large.png?v=1411567284",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "077",
+    "Nome": "Construindo APIs REST com Node.js",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/zGb75MbYhQ0_Rc954-y3OZOq9O169BSqY0WslUDTmBk_size_mode_3_size_1024x768_large.jpeg?v=1453497826",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "078",
+    "Nome": "Programando em Go: Crie aplicações com a linguagem do Google",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/google-go-featured_large.png?v=1411566554",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "079",
+    "Nome": "OAuth 2.0: Proteja suas aplicações com o Spring Security OAuth2",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "080",
+    "Nome": "Meteor: Criando aplicações web real-time com JavaScript",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/meteor-featured_large.png?v=1411565690",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "081",
+    "Nome": "Cucumber e RSpec: Construa aplicações Ruby com testes e especificações",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/cucumber-rspec-tdd-bdd-featured_large.png?v=1411488288",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "082",
+    "Nome": "Falando de Grails: Altíssima produtividade no desenvolvimento web",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/grails-featured_large.png?v=1429737103",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "083",
+    "Nome": "Guia do mestre programador: pensando como pirata, evoluindo como jedi",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/F_rZcE1nCFDaz1yv2rMbvp0sp7ehJKYYt3i1s1zp9Jc_size_mode_3_size_1024x768_large.jpeg?v=1448907418",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "084",
+    "Nome": "Thoughtworks Antologia Brasil: Histórias de aprendizado e inovação",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/thoughtworks-antologia-featured_large.png?v=1416319002",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "085",
+    "Nome": "Introdução à programação em C: Os primeiros passos de um desenvolvedor",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/introducao-c-featured_large.png?v=1440011167",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "086",
+    "Nome": "Test Driven Development: Teste e design no mundo real com Ruby",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/tdd-ruby-featured_large.png?v=1411567682",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "087",
+    "Nome": "Fragmentos de um programador: Artigos e insights da carreira de um profissional",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/fK8PXm9P9bBjSdR_ayFDiKZwmyPJYH1Ayu6lOML3mSw_large.jpg?v=1477630013",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "088",
+    "Nome": "Desenvolvimento efetivo na plataforma Microsoft: Como desenvolver e suportar software que funciona",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/O88xLPJUi5p4RfPTs3gqB6CdU2-F7du4E2Xku88E6As_size_mode_3_size_1280x960_large.jpeg?v=1462562886",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "089",
+    "Nome": "Primeiros passos com Node.js",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/A9gNBliLeLHKixKHk4vm7GHXPqyOGTLwmaxbQbpHd5A_large.jpg?v=1498158325",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "090",
+    "Nome": "RSpec: Crie especificações executáveis em Ruby",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/rspec-featured_large.png?v=1416319123",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "091",
+    "Nome": "ABAP: O guia de sobrevivência do profissional moderno",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/abap-featured_large.png?v=1443800217",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "092",
+    "Nome": "Refatorando com padrões de projeto: Um guia em Ruby",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Amazon-Refatoracao-Ruby_large.jpg?v=1445627898",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "093",
+    "Nome": "Microsoft Kinect: Crie aplicações interativas",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/kinect-featured_large.png?v=1416319109",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "094",
+    "Nome": "Canivete suíço do desenvolvedor Node",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/KKrmIrJLg4wrrI3mGQL_VlVUenEaSaNVRscaD6HlQvU_size_mode_2_size_1024x768_large.jpeg?v=1446834644",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "095",
+    "Nome": "DSL: Quebre a barreira entre desenvolvimento e negócios",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/ed1YIZAA4ox3jKxh2EeUSYMiJu7W4tM0paCt2R7sDoo_large.jpg?v=1497039745",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "096",
+    "Nome": "Octave: Seus primeiros passos na programação científica",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/isvvZtPdj_hi28pBwwPJRuQz5bvR9spqTKpO22oGQQ4_size_mode_3_size_800x600_large.jpeg?v=1449257973",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "097",
+    "Nome": "Rust: Concorrência e alta performance com segurança",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/OkxDC_Jtm1vRucUKmb0tiQCh6LpslM-vEJ51KRVyvgg_large.jpg?v=1512710194",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "098",
+    "Nome": "Programação Funcional e Concorrente em Rust",
+    "Descricao": "Livros de Programação / Outros",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/fjRCXKbPMIcdYdC5HjX_nh6yUyQwwxV6aIOE7G_nYS4_large.jpg?v=1519941170",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "099",
+    "Nome": "Swift: Programe para iPhone e iPad",
+    "Descricao": "Livros de Mobile / IOS",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/Swift-ebook_large.png?v=1418170204",
+    "PrecoCompra": 49.90
+  },
+  {
+    "Codigo": "100",
+    "Nome": "iOS: Programe para iPhone e iPad",
+    "Descricao": "Livros de Mobile / IOS",
+    "Src": "http://cdn.shopify.com/s/files/1/0155/7645/products/iphone-ipad-ios-featured_large.png?v=1411490094",
+    "PrecoCompra": 49.90
+  }
+]

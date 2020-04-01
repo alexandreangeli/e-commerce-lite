@@ -1,0 +1,414 @@
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Nova pasta (2)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Nova pasta (3)/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/datacoper/Desktop/Projetinho/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projetinho 31.01/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+E:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/datacoper/Desktop/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+D:/Projeto ECommerce - Final/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/Projeto ECommerce - Final 2/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.deps.json
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.json
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.runtimeconfig.dev.json
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.dll
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/bin/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Admin.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Carrinho.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Loja/Inicio.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/Error.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_CookieConsentPartial.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_Layout.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/Shared/_ValidationScriptsPartial.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewImports.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/Razor/Views/_ViewStart.g.cshtml.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cache
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorTargetAssemblyInfo.cs
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.Views.pdb
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+C:/Users/alean/Desktop/DCLearning/Projeto ECommerce/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CopyComplete
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorAssemblyInfo.cs
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.AssemblyInfo.cs
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.input.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.TagHelpers.output.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.dll
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.pdb
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp2.1/ECommerceLiteAlexandre.RazorCoreGenerate.cache

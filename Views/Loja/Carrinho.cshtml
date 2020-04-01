@@ -1,0 +1,63 @@
+﻿@model CarrinhoViewModel;
+
+@{
+    ViewData["Title"] = "Carrinho";
+}
+
+@*form para o token*@
+<form asp-action="carrinho" method="post"></form>
+
+<header>
+    <h1>Carrinho</h1>
+</header>
+
+<body>
+    <div class="wrapper">
+        <form asp-action="inicio" method="post">
+            <button type="submit">Adicionar Produto</button>
+        </form>
+        <h2 totalVenda>Valor total: R$@Math.Round(Model.TotalVenda, 2)</h2>
+
+        <button onclick="carrinho.zerarCarrinho(this)">Limpar Carrinho</button>
+
+    </div>
+    @{var className = "wrapper"; }
+
+    <div carrinhoTexto class="carrinhoTexto">
+        @if (Model.Pedido.Itens.Count() == 0)
+        {<h1>Seu carrinho está vazio.</h1>}
+</div>
+
+@if (Model.Pedido.Itens.Count() == 1)
+{
+    className += "1";
+}
+@if (Model.Pedido.Itens.Count() == 2)
+{
+    className += "2";
+}
+<div class="@className">
+    @foreach (var item in Model.Pedido.Itens)
+    {
+        <div class="card carrinho" item-id="@item.Id">
+            <img src="/images/produtos/large_@(item.Produto.Codigo).jpg">
+            <h1>@item.Produto.Nome</h1>
+            <p precoVenda>R$@Math.Round(item.SubtotalVenda, 2)</p>
+            <p class="descricao">@item.Produto.Descricao</p>
+            <div>
+                <button onclick="carrinho.clickIncremento(this)"><img class="mais" src="/images/plus.png"></button>
+                <input quantidade class="quantidade" type="number" value="@item.Quantidade" oninput="validity.valid||(value='');"
+                       onblur="carrinho.updateQuantidade(this)" placeholder="@item.Quantidade" />
+                <button onclick="carrinho.clickDecremento(this)"><img class="menos" src="/images/minus.png"></button>
+            </div>
+        </div>
+    }
+</div>
+</body>
+
+@section Scripts
+    {
+    <script src="~/js/carrinho.js">
+
+    </script>
+}

@@ -1,0 +1,39 @@
+﻿@model Pedido;
+
+@{
+    ViewData["Title"] = "Tela Do Administrador";
+}
+
+@*form para o token*@
+<form asp-action="admin" method="post"></form>
+
+<header>
+    <h1>Gerenciador de Custo</h1>
+</header>
+
+<body>
+    <ul class="inputCustos" pedido-id="@Model.Id">
+        <li despesasTotaisli>
+            <span><b>Despesas Totais (R$):</b></span>
+            <input despesasTotais type="number" min="1" value="@Model.DespesasTotais" oninput="validity.valid||(value='');" 
+                   placeholder="@Model.DespesasTotais.ToString().Replace(',', '.')" onblur="admin.updateDespesasTotais(this)" />
+        </li>
+        <li margemLucroli>
+            <span><b>Margem de Lucro (%):</b></span>
+            <input margemLucro type="number" min="0" value="@Model.MargemLucro" oninput="validity.valid||(value='');" 
+                   placeholder="@Model.MargemLucro.ToString().Replace(',', '.')" onblur="admin.updateMargemLucro(this)" />
+        </li>
+        <li>
+            <form>
+                <button class="admin" type="submit" asp-action="inicio">Finalizar</button>
+            </form>
+        </li>
+    </ul>
+</body>
+
+@section Scripts
+    {
+    <script src="~/js/admin.js">
+
+    </script>
+}

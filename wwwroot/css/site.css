@@ -1,0 +1,170 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+header h1 {
+    margin-top: 30px;
+    border-bottom:groove;
+}
+
+.carrinhoTexto {
+    text-align: center;
+}
+
+h2 {
+    margin: auto;
+    border: 2px solid grey;
+    border-radius: 4px;
+    padding: 5px;
+    border-color: #6DBEC4;
+}
+
+.wrapper {
+    display: grid;    
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.wrapper2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.wrapper3 {
+    display: grid;
+    grid-template-columns: 1fr;
+}
+
+.card {
+    margin: auto;
+    margin-top: 30px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    width: 350px;
+    height: 611px;
+    text-align: center;
+    word-break: break-word;
+}
+
+.carrinho {
+    height: 681px;
+}
+
+.card > img {
+    height: 340px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card h1 {
+    font-size: 21px;
+    margin: auto;
+    margin-top: 10px;
+    height: 55px;
+    width: 260px;
+}
+
+.card p {
+    color: grey;
+    font-size: 16px;
+}
+
+.descricao {
+    height: 115px;
+}
+
+button {
+    margin: auto;
+    width: 300px;
+    border: thin;
+    outline: 0;
+    padding: 12px;
+    color: white;
+    background-color: #6DBEC4;
+    text-align: center;
+    font-size: 18px;
+    display: table;
+}
+
+.card button {
+    border: none;
+    background-color: #000;
+    width: 100%;
+    font-size: 18px;
+}
+
+button:hover {
+  opacity: 0.7;
+}
+
+.quantidade {
+    border: unset;
+    text-align: center;
+    width: 100%;
+}
+
+.mais, .menos {
+    width: 18px;
+    height: 18px;
+}
+
+input[type=number]::-webkit-inner-spin-button,
+input[type=number]::-webkit-outer-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+input[type='number'] {
+    -moz-appearance: textfield;
+}
+
+.admin {
+    margin: unset;
+    margin-top: 10px;
+}
+
+li {
+    margin-top: 10px;
+    list-style-type: none;
+}
+
+.navegacao ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+.navegacao li {
+    margin-top: 0px;
+    float: left;
+}
+
+
+.navegacao li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.navegacao li a:hover {
+    background-color: #111;
+}
+
+
+.navbar-brand {
+    background: url('../images/logo3.png');
+    width: 285px;
+    height: 48px;
+}
+
+.inputCustos {
+    padding: 10px;
+}
+
+
+.inputCustos input {
+  border: 1px solid #CCC;
+  border-radius: 4px;
+  width: 160px;
+}

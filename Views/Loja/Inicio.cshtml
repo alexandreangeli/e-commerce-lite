@@ -1,0 +1,31 @@
+﻿@model InicioViewModel;
+
+@{
+    ViewData["Title"] = "Catálogo";
+}
+
+<header>
+    <h1>Catálogo</h1>
+</header>
+
+<body>
+    @*Para conferir se parâmetros estão sendo passados corretamente:*@
+    @*<p>Despesas totais: R$@Model.Pedido.DespesasTotais</p>
+        <p>Margem de lucro: @Model.Pedido.MargemLucro% </p>
+        <p>Rateio: R$@Model.Rateio</p>*@
+
+    <div class="wrapper">
+        @foreach (var produto in Model.Produtos)
+        {
+            <div class="card">
+                <img src="/images/produtos/large_@(produto.Codigo).jpg">
+                <h1>@produto.Nome</h1>
+                <p>R$@Math.Round(produto.PrecoVenda, 2)</p>
+                <p class="descricao">@produto.Descricao</p>
+                <form>
+                    <button type="submit" asp-action="carrinho" asp-route-codigo="@produto.Codigo">Comprar</button>
+                </form>
+            </div>
+        }
+    </div>
+</body>

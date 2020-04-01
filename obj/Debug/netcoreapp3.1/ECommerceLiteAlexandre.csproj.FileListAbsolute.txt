@@ -1,0 +1,5 @@
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp3.1/ECommerceLiteAlexandre.csprojAssemblyReference.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp3.1/ECommerceLiteAlexandre.csproj.CoreCompileInputs.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp3.1/ECommerceLiteAlexandre.MvcApplicationPartsAssemblyInfo.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp3.1/ECommerceLiteAlexandre.AssemblyInfoInputs.cache
+/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/Debug/netcoreapp3.1/ECommerceLiteAlexandre.AssemblyInfo.cs

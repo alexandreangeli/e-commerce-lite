@@ -1,0 +1,65 @@
+{
+  "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/ECommerceLiteAlexandre.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "3.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": "ECommerceLiteAlexandre",
+  "Documents": [
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Shared/_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Loja/Carrinho.cshtml",
+      "TargetPath": "Views\\Loja\\Carrinho.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Shared/_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Loja/Admin.cshtml",
+      "TargetPath": "Views\\Loja\\Admin.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Shared/Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Loja/Inicio.cshtml",
+      "TargetPath": "Views\\Loja\\Inicio.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/Shared/_CookieConsentPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_CookieConsentPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/Views/_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.2"
+}
