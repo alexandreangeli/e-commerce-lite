@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/ECommerceLiteAlexandre.csproj": {}
+    "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/e-commerce-lite/ECommerceLiteAlexandre.csproj": {}
   },
   "projects": {
-    "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/ECommerceLiteAlexandre.csproj": {
+    "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/e-commerce-lite/ECommerceLiteAlexandre.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/ECommerceLiteAlexandre.csproj",
+        "projectUniqueName": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/e-commerce-lite/ECommerceLiteAlexandre.csproj",
         "projectName": "ECommerceLiteAlexandre",
-        "projectPath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/ECommerceLiteAlexandre.csproj",
+        "projectPath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/e-commerce-lite/ECommerceLiteAlexandre.csproj",
         "packagesPath": "/Users/alexandrelima/.nuget/packages/",
-        "outputPath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/ECommerceLiteAlexandre/obj/",
+        "outputPath": "/Users/alexandrelima/Desktop/ECommerceLiteAlexandre/e-commerce-lite/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexandrelima/.nuget/NuGet/NuGet.Config"
@@ -40,9 +40,29 @@
               "target": "Package",
               "version": "[3.1.3, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[12.0.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.3, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL.Metadata": {
+              "target": "Package",
+              "version": "[*, )"
             }
           },
           "imports": [

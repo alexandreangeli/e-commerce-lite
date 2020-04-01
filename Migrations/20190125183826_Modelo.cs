@@ -1,4 +1,4 @@
-﻿using Microsoft.EntityFrameworkCore.Metadata;
+﻿using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 
 namespace ECommerceLiteAlexandre.Migrations
@@ -12,7 +12,7 @@ namespace ECommerceLiteAlexandre.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn),
                     DespesasTotais = table.Column<decimal>(nullable: false),
                     MargemLucro = table.Column<double>(nullable: false)
                 },
@@ -26,7 +26,7 @@ namespace ECommerceLiteAlexandre.Migrations
                 columns: table => new
                 {
                     Id = table.Column<int>(nullable: false)
-                        .Annotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn),
+                        .Annotation("Npgsql:ValueGenerationStrategy", NpgsqlValueGenerationStrategy.SerialColumn),
                     PedidoId = table.Column<int>(nullable: false),
                     ProdutoId = table.Column<int>(nullable: false),
                     Quantidade = table.Column<int>(nullable: false),

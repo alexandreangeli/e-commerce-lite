@@ -30,7 +30,7 @@ namespace ECommerceLiteAlexandre
             });
 
 
-            services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+            services.AddMvc(option => option.EnableEndpointRouting = false).SetCompatibilityVersion(CompatibilityVersion.Version_3_0);
 
             services.AddHttpContextAccessor();
 
@@ -40,7 +40,7 @@ namespace ECommerceLiteAlexandre
 
             //configurando contexto
             string connectionString = Configuration.GetConnectionString("Default");
-            services.AddDbContext<ApplicationContext>(options => options.UseSqlServer(connectionString));
+            services.AddDbContext<ApplicationContext>(options => options.UseNpgsql(connectionString));
 
             //habilitando injeção de dependência
             services.AddTransient<IDataService, DataService>();
@@ -50,10 +50,10 @@ namespace ECommerceLiteAlexandre
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, 
+        public void Configure(IApplicationBuilder app, IWebHostEnvironment env, 
             IServiceProvider serviceProvider)
         {
-            if (env.IsDevelopment())
+            if (env.EnvironmentName == "Development")
             {
                 app.UseDeveloperExceptionPage();
             }
