@@ -2,6 +2,7 @@
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.Serialization;
+using System.Text.Json.Serialization;
 
 namespace ECommerceLiteAlexandre.Models
 {
@@ -23,21 +24,22 @@ namespace ECommerceLiteAlexandre.Models
 
         [Required]
         [DataMember]
-        public Pedido Pedido { get; private set; }
+        [JsonIgnore]
+        public Pedido Pedido { get; set; }
         [Required]
         [DataMember]
-        public Produto Produto { get; private set; }      
+        public Produto Produto { get; set; }      
         [Required]
         [DataMember]
-        public int Quantidade { get; private set; }
-        [Required]
-        [DataMember]
-        [Column(TypeName = "decimal(18,2)")]
-        public decimal PrecoUnitarioCompra { get; private set; }
+        public int Quantidade { get; set; }
         [Required]
         [DataMember]
         [Column(TypeName = "decimal(18,2)")]
-        public decimal PrecoUnitarioVenda { get; private set; }
+        public decimal PrecoUnitarioCompra { get; set; }
+        [Required]
+        [DataMember]
+        [Column(TypeName = "decimal(18,2)")]
+        public decimal PrecoUnitarioVenda { get; set; }
         [DataMember]
         [Column(TypeName = "decimal(18,2)")]
         public decimal SubtotalCompra => Quantidade * PrecoUnitarioCompra;

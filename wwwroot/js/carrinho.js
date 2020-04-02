@@ -5,7 +5,6 @@
         let token = $('[name=__RequestVerificationToken]').val();
         let headers = {};
         headers['RequestVerificationToken'] = token;
-        debugger;
         $.ajax({
             url: '/loja/zerarcarrinho',
             type: 'POST',
@@ -54,7 +53,7 @@
         }
 
         return {
-            Id: itemId,
+            Id: parseInt(itemId),
             Quantidade: novaQuantidade
         };
     }
@@ -64,7 +63,6 @@
         let token = $('[name=__RequestVerificationToken]').val();
         let headers = {};
         headers['RequestVerificationToken'] = token;
-
         $.ajax({
             url: '/loja/updatequantidade',
             type: 'POST',

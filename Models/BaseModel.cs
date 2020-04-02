@@ -6,6 +6,6 @@ namespace ECommerceLiteAlexandre.Models
     public class BaseModel
     {
         [DataMember]
-        public int Id { get; protected set; }
+        public int Id { get; set; }
     }
 }

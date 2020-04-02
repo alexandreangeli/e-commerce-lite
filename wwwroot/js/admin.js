@@ -5,7 +5,6 @@
         var data = {
             DespesasTotais: this.getValor(string, input)
         };
-        debugger;
         this.postValor(string, data);
     }
 
@@ -23,7 +22,7 @@
         if (novoValor < 0 || isNaN(novoValor) || novoValor == "") {
             novoValor = $(linhaDoItem).find('[' + string + ']').attr('placeholder');
         }
-        return novoValor;
+        return parseFloat(novoValor);
     }
 
     postValor(string, data) {
@@ -31,7 +30,6 @@
         let token = $('[name=__RequestVerificationToken]').val();
         let headers = {};
         headers['RequestVerificationToken'] = token;
-
         $.ajax({
             url: '/loja/update' + string,
             type: 'POST',
