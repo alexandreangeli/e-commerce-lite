@@ -2,7 +2,7 @@
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.Serialization;
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     public class Pedido : BaseModel
     {

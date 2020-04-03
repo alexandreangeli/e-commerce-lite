@@ -1,10 +1,10 @@
-﻿using ECommerceLiteAlexandre.Repositories;
+﻿using ECommerceLite.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Newtonsoft.Json;
 using System.Collections.Generic;
 using System.IO;
 
-namespace ECommerceLiteAlexandre
+namespace ECommerceLite
 {
     class DataService : IDataService
     {

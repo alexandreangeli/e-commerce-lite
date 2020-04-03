@@ -35,6 +35,15 @@ h2 {
     grid-template-columns: 1fr;
 }
 
+.wrapper-toolbar-carrinho {
+    display: flex;
+    justify-content: space-between;
+}
+
+.totalVenda {
+    margin: 0;
+}
+
 .card {
     margin: auto;
     margin-top: 30px;
@@ -89,6 +98,7 @@ button {
     background-color: #000;
     width: 100%;
     font-size: 18px;
+    color: white;
 }
 
 button:hover {

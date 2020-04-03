@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 using System.Runtime.Serialization;
 using Newtonsoft.Json;
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     [DataContract]
     public class ItemPedido : BaseModel

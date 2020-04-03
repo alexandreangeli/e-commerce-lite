@@ -1,6 +1,6 @@
 
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     public class ErrorViewModel
     {

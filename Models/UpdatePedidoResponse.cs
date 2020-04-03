@@ -1,6 +1,6 @@
-﻿using ECommerceLiteAlexandre.Models.ViewModels;
+﻿using ECommerceLite.Models.ViewModels;
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     public class UpdatePedidoResponse
     {

@@ -1,10 +1,10 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
-using ECommerceLiteAlexandre.Models;
+using ECommerceLite.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerceLiteAlexandre.Repositories
+namespace ECommerceLite.Repositories
 {
     public interface IProdutoRepository
     {

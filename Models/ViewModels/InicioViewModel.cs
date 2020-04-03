@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace ECommerceLiteAlexandre.Models.ViewModels
+namespace ECommerceLite.Models.ViewModels
 {
     public class InicioViewModel
     {

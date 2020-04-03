@@ -1,6 +1,6 @@
 ﻿using System.Runtime.Serialization;
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     [DataContract]
     public class BaseModel

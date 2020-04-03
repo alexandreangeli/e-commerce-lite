@@ -1,12 +1,12 @@
-﻿using ECommerceLiteAlexandre.Models;
-using ECommerceLiteAlexandre.Models.ViewModels;
+﻿using ECommerceLite.Models;
+using ECommerceLite.Models.ViewModels;
 using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using System;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ECommerceLiteAlexandre.Repositories
+namespace ECommerceLite.Repositories
 {
     public interface IPedidoRepository
     {

@@ -1,4 +1,4 @@
-﻿namespace ECommerceLiteAlexandre
+﻿namespace ECommerceLite
 {
     interface IDataService
     {

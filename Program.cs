@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace ECommerceLiteAlexandre
+namespace ECommerceLite
 {
     public class Program
     {

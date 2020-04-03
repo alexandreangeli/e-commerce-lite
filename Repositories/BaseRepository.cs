@@ -1,7 +1,7 @@
-﻿using ECommerceLiteAlexandre.Models;
+﻿using ECommerceLite.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerceLiteAlexandre.Repositories
+namespace ECommerceLite.Repositories
 {
     public class BaseRepository<T> where T : BaseModel
     {

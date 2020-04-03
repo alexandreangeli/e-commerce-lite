@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
-namespace ECommerceLiteAlexandre.Models
+namespace ECommerceLite.Models
 {
     public class Produto : BaseModel
     {

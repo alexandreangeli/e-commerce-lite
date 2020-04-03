@@ -1,10 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using ECommerceLiteAlexandre.Models;
-using ECommerceLiteAlexandre.Repositories;
-using ECommerceLiteAlexandre.Models.ViewModels;
+using ECommerceLite.Models;
+using ECommerceLite.Repositories;
+using ECommerceLite.Models.ViewModels;
 using System.Threading.Tasks;
 
-namespace ECommerceLiteAlexandre.Controllers
+namespace ECommerceLite.Controllers
 {
     public class LojaController : Controller
     {

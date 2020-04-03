@@ -1,7 +1,7 @@
-﻿using ECommerceLiteAlexandre.Models;
+﻿using ECommerceLite.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace ECommerceLiteAlexandre
+namespace ECommerceLite
 {
     public class ApplicationContext : DbContext
     {

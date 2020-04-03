@@ -12,11 +12,11 @@
 </header>
 
 <body>
-    <div class="wrapper">
+    <div class="wrapper-toolbar-carrinho">
         <form asp-action="inicio" method="post">
             <button type="submit">Adicionar Produto</button>
         </form>
-        <h2 totalVenda>Valor total: R$@Math.Round(Model.TotalVenda, 2)</h2>
+        <h2 totalVenda class="totalVenda">Valor total: R$@Math.Round(Model.TotalVenda, 2)</h2>
 
         <button onclick="carrinho.zerarCarrinho(this)">Limpar Carrinho</button>
 

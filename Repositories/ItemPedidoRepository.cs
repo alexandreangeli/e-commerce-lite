@@ -1,7 +1,7 @@
-﻿using ECommerceLiteAlexandre.Models;
+﻿using ECommerceLite.Models;
 using System.Linq;
 
-namespace ECommerceLiteAlexandre.Repositories
+namespace ECommerceLite.Repositories
 {
     public interface IItemPedidoRepository
     {
