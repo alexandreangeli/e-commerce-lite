@@ -8,14 +8,14 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace ECommerceLiteAlexandre.Migrations
 {
     [DbContext(typeof(ApplicationContext))]
-    [Migration("20200402221557_InitialCreate")]
+    [Migration("20200403014831_InitialCreate")]
     partial class InitialCreate
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
-                .HasAnnotation("ProductVersion", "3.1.3");
+                .HasAnnotation("ProductVersion", "3.0.0");
 
             modelBuilder.Entity("ECommerceLiteAlexandre.Models.ItemPedido", b =>
                 {
