@@ -40,7 +40,7 @@ namespace ECommerceLiteAlexandre
 
             //configurando contexto
             string connectionString = Configuration.GetConnectionString("Default");
-            services.AddDbContext<ApplicationContext>(options => options.UseSqlite("Data Source=app.db"));
+            services.AddDbContext<ApplicationContext>(options => options.UseSqlite(connectionString));
 
             //habilitando injeção de dependência
             services.AddTransient<IDataService, DataService>();
